@@ -1,0 +1,58 @@
+/* Estilização template main */
+
+.msg{
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+
+/* Estilização tela inicial*/
+    section.inicio{
+        border: 1px solid black;
+        height: 20vh;
+        text-align: center;
+        background-color: rgb(190, 190, 190);
+        margin-top: 2rem;
+    }
+
+/* Estilização imagem*/
+image-fluid{
+    align-items: center;
+}
+
+/* Estilização da tela de cliente */
+
+section.cadastrar-cliente{
+    width: 70%;
+    margin: 2rem auto;
+}
+
+
+/* Estilizando formulário de Cadastro OS */
+
+section.cadastrar-os{
+    width: 70%;
+    margin: 2rem auto;
+}
+
+
+/* Estilizacao busca */
+
+section.nao-encontrado{
+    margin: 20px;
+    background-color: rgb(184, 184, 184);
+    padding: 10px;
+    color: red;
+}
+
+footer{
+    background-color: #53575c;
+    color: #FFF;
+    padding: 20px;
+    margin-top: 3rem;
+    text-align: center;
+
+}
